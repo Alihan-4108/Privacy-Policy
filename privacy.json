@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "appName": "Balloon Pop Puzzle: Clear Path",
+    "company": "Turul Games",
+    "contactEmail": "turulgames0@gmail.com",
+    "website": "",
+    "platform": "Google Play",
+    "effectiveDate": "2026-09-01",
+    "lastUpdated": "2026-09-01",
+    "version": "1.0.0",
+    "language": "en"
+  },
+  "intro": "This Privacy Policy explains how Turul Games (\"we\", \"us\", \"our\") collects, uses, and protects information when you play Balloon Pop Puzzle: Clear Path (the \"Game\"), available on Google Play. By downloading or using the Game, you agree to the practices described in this policy. If you do not agree, please do not use the Game.",
+  "sections": [
+    {
+      "heading": "1. Information We Collect",
+      "body": "We do not ask you to create an account and we do not intentionally collect information that directly identifies you (such as your name or email address) unless you contact us by email.\n\nThe Game and the third-party services it uses may automatically collect:\n- Device and technical information: device model, operating system version, language and region settings, and identifiers such as the Android Advertising ID.\n- Usage and gameplay data: levels played, in-game progress, session length, buttons or features used, and similar analytics events.\n- Diagnostic data: crash logs, error reports, and performance data.\n\nAll of this information is collected in a pseudonymous form and is used to operate and improve the Game, not to identify you personally."
+    },
+    {
+      "heading": "2. How We Use Information",
+      "body": "We use the information described above to:\n- Provide, operate, and maintain the Game and save your in-game progress on your device;\n- Detect, diagnose, and fix crashes, bugs, and performance issues;\n- Understand how players use the Game so we can improve levels and features;\n- Show advertisements and measure their performance."
+    },
+    {
+      "heading": "3. Advertising",
+      "body": "The Game is free and is supported by advertising provided through Google AdMob. AdMob and its advertising partners may use your device's Advertising ID and other data to serve and measure ads, including personalized ads where permitted.\n\nYou can reset your Advertising ID or opt out of ad personalization at any time in your device settings under Settings > Google > Ads.\n\nFor more information about how Google uses data from AdMob, see https://policies.google.com/technologies/partner-sites and https://support.google.com/admob/answer/6128543"
+    },
+    {
+      "heading": "4. Analytics and Crash Reporting",
+      "body": "We use third-party analytics and crash-reporting tools to understand Game usage and stability. These tools may include Google Analytics for Firebase and Firebase Crashlytics (Google), and Unity analytics and diagnostics services (Unity Technologies). They collect data such as device information, usage events, and crash logs on our behalf.\n- Google / Firebase Privacy Policy: https://firebase.google.com/support/privacy\n- Unity Privacy Policy: https://unity.com/legal/privacy-policy"
+    },
+    {
+      "heading": "5. Third-Party Services",
+      "body": "The Game relies on the following third-party services, each governed by its own privacy policy:\n- Google AdMob (advertising) - https://policies.google.com/privacy\n- Google Firebase (analytics and crash reporting) - https://firebase.google.com/support/privacy\n- Unity Technologies (game engine, analytics, diagnostics) - https://unity.com/legal/privacy-policy\n- Google Play Services - https://policies.google.com/privacy"
+    },
+    {
+      "heading": "6. Sharing of Information",
+      "body": "We do not sell your personal information. Information is shared only with the third-party service providers listed above so they can perform their functions (advertising, analytics, crash reporting), and where required by law or to protect our legal rights."
+    },
+    {
+      "heading": "7. Children's Privacy",
+      "body": "The Game is intended for a general audience and is not directed to children under the age of 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at turulgames0@gmail.com and we will delete it."
+    },
+    {
+      "heading": "8. Data Retention and Security",
+      "body": "In-game progress is stored locally on your device. Data processed by our third-party providers is retained according to their own retention policies. We take reasonable technical and organizational measures to protect information, but no method of transmission or storage over the internet is 100% secure."
+    },
+    {
+      "heading": "9. Your Rights",
+      "body": "Depending on where you live, you may have rights under laws such as the GDPR (EU/EEA/UK), the CCPA/CPRA (California), or KVKK (Turkey), including the right to access, correct, delete, or restrict the processing of your personal data, and the right to object to processing. To exercise these rights, contact us at turulgames0@gmail.com. You can also control ad personalization and reset your Advertising ID through your device settings."
+    },
+    {
+      "heading": "10. International Data Transfers",
+      "body": "Our third-party providers may process and store data on servers located outside your country of residence, including in the United States. Where required, these providers rely on appropriate safeguards such as Standard Contractual Clauses."
+    },
+    {
+      "heading": "11. Changes to This Policy",
+      "body": "We may update this Privacy Policy from time to time, for example if we add features such as in-app purchases. When we make significant changes, we will update the \"Last updated\" date and, where appropriate, provide a notice inside the Game. The current version is always available at this page."
+    },
+    {
+      "heading": "12. Contact Us",
+      "body": "If you have any questions about this Privacy Policy, contact us at:\nTurul Games\nturulgames0@gmail.com"
+    }
+  ]
+}
