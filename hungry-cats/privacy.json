@@ -14,50 +14,58 @@
   "sections": [
     {
       "heading": "1. Information We Collect",
-      "body": "We do not ask you to create an account and we do not intentionally collect information that directly identifies you (such as your name or email address) unless you contact us by email.\n\nWhen you first open the Game, an anonymous player account is created for you automatically. It is identified only by a random player ID, which you can see in the Game under Settings.\n\nThe Game and the third-party services it uses may collect:\n- Game progress: your current level, coins, lives, skills, and sound and vibration settings, linked to your anonymous player ID so your progress can be saved in the cloud.\n- Device and technical information: device model, operating system version, language and region settings, and identifiers such as the app instance ID and, where available, the Android Advertising ID.\n- Usage and gameplay data: levels played, level results, session length, features used, and similar analytics events.\n- Diagnostic data: crash logs, error reports, and performance data.\n\nAll of this information is collected in a pseudonymous form and is used to operate and improve the Game, not to identify you personally."
+      "body": "We do not ask you to create an account and we do not intentionally collect information that directly identifies you (such as your name or email address) unless you contact us by email.\n\nWhen you first open the Game, an anonymous player account is created for you automatically. It is identified only by a random player ID, which you can see in the Game under Settings.\n\nThe Game and the third-party services it uses may collect:\n- Game progress: your current level, coins, lives, skills, purchased items, and sound and vibration settings, linked to your anonymous player ID so your progress can be saved in the cloud.\n- Device and technical information: device model, operating system version, language and region settings, and identifiers such as the app instance ID and the Android Advertising ID.\n- Usage and gameplay data: levels played, level results, session length, features used, ads viewed, and similar analytics events.\n- Purchase information: which in-game items you bought, the transaction ID, and the purchase receipt provided by Google Play. We never receive your payment card or bank details.\n- Diagnostic data: crash logs, error reports, and performance data.\n\nAll of this information is collected in a pseudonymous form and is used to operate and improve the Game, not to identify you personally."
     },
     {
       "heading": "2. How We Use Information",
-      "body": "We use the information described above to:\n- Provide, operate, and maintain the Game;\n- Save your in-game progress on your device and in the cloud, so it can be restored;\n- Detect, diagnose, and fix crashes, bugs, and performance issues;\n- Understand how players use the Game so we can improve levels and features.\n\nThe Game does not currently show advertisements."
+      "body": "We use the information described above to:\n- Provide, operate, and maintain the Game;\n- Save your in-game progress on your device and in the cloud, so it can be restored;\n- Process in-app purchases, deliver the items you bought, and restore them when needed;\n- Show advertisements and measure their performance;\n- Detect, diagnose, and fix crashes, bugs, and performance issues;\n- Understand how players use the Game so we can improve levels and features."
     },
     {
       "heading": "3. Cloud Save",
-      "body": "Your game progress is stored on your device and also saved to Google Cloud Firestore, a Google Firebase service. The cloud copy is linked only to your anonymous player ID, not to your name, email, or Google account.\n\nThe Reset Game option in Settings restarts your level progress from Level 1. It does not delete your player data. To have your data deleted, see section 9."
+      "body": "Your game progress is stored on your device and also saved to Google Cloud Firestore, a Google Firebase service. The cloud copy is linked only to your anonymous player ID, not to your name, email, or Google account.\n\nThe Reset Game option in Settings restarts your level progress from Level 1. It does not delete your player data or your purchases. To have your data deleted, see section 11."
     },
     {
-      "heading": "4. Analytics and Crash Reporting",
+      "heading": "4. In-App Purchases",
+      "body": "The Game may offer optional in-app purchases, such as coins or other in-game items. Purchases are processed by Google Play. Your payment details are handled by Google under its own terms and privacy policy, and are never shared with us.\n\nWe receive only the information needed to confirm and deliver your purchase, such as the product purchased, the transaction ID, and the purchase receipt. We may verify receipts to prevent fraud.\n\nGoogle Play Terms of Service: https://play.google.com/about/play-terms/"
+    },
+    {
+      "heading": "5. Advertising",
+      "body": "The Game may show advertisements provided through Google AdMob, including optional rewarded ads that give you an in-game reward for watching. AdMob and its advertising partners may use your device's Advertising ID and other data to serve and measure ads, including personalized ads where permitted.\n\nWhere required by law (for example in the EU/EEA and UK), we will ask for your consent before showing personalized ads. You can reset your Advertising ID or opt out of ad personalization at any time in your device settings under Settings > Google > Ads (or Settings > Privacy > Ads, depending on your device).\n\nFor more information about how Google uses data from AdMob, see https://policies.google.com/technologies/partner-sites and https://support.google.com/admob/answer/6128543"
+    },
+    {
+      "heading": "6. Analytics and Crash Reporting",
       "body": "We use third-party analytics and crash-reporting tools to understand Game usage and stability. These tools include Google Analytics for Firebase and Firebase Crashlytics (Google), and Unity analytics and diagnostics services (Unity Technologies). They collect data such as device information, usage events, and crash logs on our behalf.\n- Google / Firebase Privacy Policy: https://firebase.google.com/support/privacy\n- Unity Privacy Policy: https://unity.com/legal/privacy-policy"
     },
     {
-      "heading": "5. Third-Party Services",
-      "body": "The Game relies on the following third-party services, each governed by its own privacy policy:\n- Google Firebase (anonymous sign-in, cloud save, analytics, and crash reporting) - https://firebase.google.com/support/privacy\n- Unity Technologies (game engine, analytics, diagnostics) - https://unity.com/legal/privacy-policy\n- Google Play Services - https://policies.google.com/privacy"
+      "heading": "7. Third-Party Services",
+      "body": "The Game relies on the following third-party services, each governed by its own privacy policy:\n- Google Firebase (anonymous sign-in, cloud save, analytics, and crash reporting) - https://firebase.google.com/support/privacy\n- Google AdMob (advertising) - https://policies.google.com/privacy\n- Google Play Billing (in-app purchases) - https://policies.google.com/privacy\n- Unity Technologies (game engine, in-app purchase integration, analytics, diagnostics) - https://unity.com/legal/privacy-policy\n- Google Play Services - https://policies.google.com/privacy"
     },
     {
-      "heading": "6. Sharing of Information",
-      "body": "We do not sell your personal information. Information is shared only with the third-party service providers listed above so they can perform their functions (cloud save, analytics, crash reporting), and where required by law or to protect our legal rights."
+      "heading": "8. Sharing of Information",
+      "body": "We do not sell your personal information. Information is shared only with the third-party service providers listed above so they can perform their functions (cloud save, purchases, advertising, analytics, crash reporting), and where required by law or to protect our legal rights."
     },
     {
-      "heading": "7. Children's Privacy",
+      "heading": "9. Children's Privacy",
       "body": "The Game is intended for a general audience and is not directed to children under the age of 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at turulgames0@gmail.com and we will delete it."
     },
     {
-      "heading": "8. Data Retention and Security",
-      "body": "In-game progress is stored locally on your device and in the cloud for as long as you use the Game, or until you ask us to delete it. Data processed by our third-party providers is retained according to their own retention policies. We take reasonable technical and organizational measures to protect information, but no method of transmission or storage over the internet is 100% secure."
+      "heading": "10. Data Retention and Security",
+      "body": "In-game progress is stored locally on your device and in the cloud for as long as you use the Game, or until you ask us to delete it. Purchase records may be kept as long as needed to deliver and restore your purchases and to meet legal and accounting obligations. Data processed by our third-party providers is retained according to their own retention policies. We take reasonable technical and organizational measures to protect information, but no method of transmission or storage over the internet is 100% secure."
     },
     {
-      "heading": "9. Your Rights and Data Deletion",
-      "body": "Depending on where you live, you may have rights under laws such as the GDPR (EU/EEA/UK), the CCPA/CPRA (California), or KVKK (Turkey), including the right to access, correct, delete, or restrict the processing of your personal data, and the right to object to processing.\n\nTo exercise these rights or to have your cloud save deleted, email us at turulgames0@gmail.com and include your player ID (shown in the Game under Settings), so we can find your data. Uninstalling the Game removes the progress stored on your device."
+      "heading": "11. Your Rights and Data Deletion",
+      "body": "Depending on where you live, you may have rights under laws such as the GDPR (EU/EEA/UK), the CCPA/CPRA (California), or KVKK (Turkey), including the right to access, correct, delete, or restrict the processing of your personal data, and the right to object to processing.\n\nTo exercise these rights or to have your cloud save deleted, email us at turulgames0@gmail.com and include your player ID (shown in the Game under Settings), so we can find your data. Deleting your data also removes your in-game progress and purchased items from the cloud, and they cannot be restored. Uninstalling the Game removes the progress stored on your device.\n\nYou can also control ad personalization and reset your Advertising ID through your device settings."
     },
     {
-      "heading": "10. International Data Transfers",
+      "heading": "12. International Data Transfers",
       "body": "Our third-party providers may process and store data on servers located outside your country of residence, including in the United States. Where required, these providers rely on appropriate safeguards such as Standard Contractual Clauses."
     },
     {
-      "heading": "11. Changes to This Policy",
-      "body": "We may update this Privacy Policy from time to time, for example if we add features such as in-app purchases or advertising. When we make significant changes, we will update the \"Last updated\" date and, where appropriate, provide a notice inside the Game. The current version is always available at this page."
+      "heading": "13. Changes to This Policy",
+      "body": "We may update this Privacy Policy from time to time. When we make significant changes, we will update the \"Last updated\" date and, where appropriate, provide a notice inside the Game. The current version is always available at this page."
     },
     {
-      "heading": "12. Contact Us",
+      "heading": "14. Contact Us",
       "body": "If you have any questions about this Privacy Policy, contact us at:\nTurul Games\nturulgames0@gmail.com"
     }
   ]
