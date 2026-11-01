@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "appName": "Hungry Cats: Triple Match",
+    "company": "Turul Games",
+    "contactEmail": "turulgames0@gmail.com",
+    "website": "",
+    "platform": "Google Play",
+    "effectiveDate": "2026-11-01",
+    "lastUpdated": "2026-11-01",
+    "version": "1.0.0",
+    "language": "en"
+  },
+  "intro": "This Privacy Policy explains how Turul Games (\"we\", \"us\", \"our\") collects, uses, and protects information when you play Hungry Cats: Triple Match (the \"Game\"), available on Google Play. By downloading or using the Game, you agree to the practices described in this policy. If you do not agree, please do not use the Game.",
+  "sections": [
+    {
+      "heading": "1. Information We Collect",
+      "body": "We do not ask you to create an account and we do not intentionally collect information that directly identifies you (such as your name or email address) unless you contact us by email.\n\nWhen you first open the Game, an anonymous player account is created for you automatically. It is identified only by a random player ID, which you can see in the Game under Settings.\n\nThe Game and the third-party services it uses may collect:\n- Game progress: your current level, coins, lives, skills, and sound and vibration settings, linked to your anonymous player ID so your progress can be saved in the cloud.\n- Device and technical information: device model, operating system version, language and region settings, and identifiers such as the app instance ID and, where available, the Android Advertising ID.\n- Usage and gameplay data: levels played, level results, session length, features used, and similar analytics events.\n- Diagnostic data: crash logs, error reports, and performance data.\n\nAll of this information is collected in a pseudonymous form and is used to operate and improve the Game, not to identify you personally."
+    },
+    {
+      "heading": "2. How We Use Information",
+      "body": "We use the information described above to:\n- Provide, operate, and maintain the Game;\n- Save your in-game progress on your device and in the cloud, so it can be restored;\n- Detect, diagnose, and fix crashes, bugs, and performance issues;\n- Understand how players use the Game so we can improve levels and features.\n\nThe Game does not currently show advertisements."
+    },
+    {
+      "heading": "3. Cloud Save",
+      "body": "Your game progress is stored on your device and also saved to Google Cloud Firestore, a Google Firebase service. The cloud copy is linked only to your anonymous player ID, not to your name, email, or Google account.\n\nThe Reset Game option in Settings restarts your level progress from Level 1. It does not delete your player data. To have your data deleted, see section 9."
+    },
+    {
+      "heading": "4. Analytics and Crash Reporting",
+      "body": "We use third-party analytics and crash-reporting tools to understand Game usage and stability. These tools include Google Analytics for Firebase and Firebase Crashlytics (Google), and Unity analytics and diagnostics services (Unity Technologies). They collect data such as device information, usage events, and crash logs on our behalf.\n- Google / Firebase Privacy Policy: https://firebase.google.com/support/privacy\n- Unity Privacy Policy: https://unity.com/legal/privacy-policy"
+    },
+    {
+      "heading": "5. Third-Party Services",
+      "body": "The Game relies on the following third-party services, each governed by its own privacy policy:\n- Google Firebase (anonymous sign-in, cloud save, analytics, and crash reporting) - https://firebase.google.com/support/privacy\n- Unity Technologies (game engine, analytics, diagnostics) - https://unity.com/legal/privacy-policy\n- Google Play Services - https://policies.google.com/privacy"
+    },
+    {
+      "heading": "6. Sharing of Information",
+      "body": "We do not sell your personal information. Information is shared only with the third-party service providers listed above so they can perform their functions (cloud save, analytics, crash reporting), and where required by law or to protect our legal rights."
+    },
+    {
+      "heading": "7. Children's Privacy",
+      "body": "The Game is intended for a general audience and is not directed to children under the age of 13 (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, please contact us at turulgames0@gmail.com and we will delete it."
+    },
+    {
+      "heading": "8. Data Retention and Security",
+      "body": "In-game progress is stored locally on your device and in the cloud for as long as you use the Game, or until you ask us to delete it. Data processed by our third-party providers is retained according to their own retention policies. We take reasonable technical and organizational measures to protect information, but no method of transmission or storage over the internet is 100% secure."
+    },
+    {
+      "heading": "9. Your Rights and Data Deletion",
+      "body": "Depending on where you live, you may have rights under laws such as the GDPR (EU/EEA/UK), the CCPA/CPRA (California), or KVKK (Turkey), including the right to access, correct, delete, or restrict the processing of your personal data, and the right to object to processing.\n\nTo exercise these rights or to have your cloud save deleted, email us at turulgames0@gmail.com and include your player ID (shown in the Game under Settings), so we can find your data. Uninstalling the Game removes the progress stored on your device."
+    },
+    {
+      "heading": "10. International Data Transfers",
+      "body": "Our third-party providers may process and store data on servers located outside your country of residence, including in the United States. Where required, these providers rely on appropriate safeguards such as Standard Contractual Clauses."
+    },
+    {
+      "heading": "11. Changes to This Policy",
+      "body": "We may update this Privacy Policy from time to time, for example if we add features such as in-app purchases or advertising. When we make significant changes, we will update the \"Last updated\" date and, where appropriate, provide a notice inside the Game. The current version is always available at this page."
+    },
+    {
+      "heading": "12. Contact Us",
+      "body": "If you have any questions about this Privacy Policy, contact us at:\nTurul Games\nturulgames0@gmail.com"
+    }
+  ]
+}
